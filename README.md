@@ -37,5 +37,5 @@ Score: 150
 Balls played: 120
 Run rate of TeamB (the run rate till now): 6.0
 ```
-###Author
+### Author
 VATTIGUNTA SIVA SANKAR REDDY
