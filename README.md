@@ -1,4 +1,3 @@
-```markdown
 # Cricket Net Run Rate Calculator
 
 This is a simple program that calculates the net run rate (NRR) for two cricket teams based on their scores and balls played.
@@ -38,6 +37,5 @@ Score: 150
 Balls played: 120
 Run rate of TeamB (the run rate till now): 6.0
 ```
-Author: VATTIGUNTA SIVA SANKAR REDDY
-```
-
+###Author
+VATTIGUNTA SIVA SANKAR REDDY
